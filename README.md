@@ -1,2 +1,2 @@
-Hi there :hello:
+Hi there 👋:
 * Hello
